@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "msg": "",
+  "code": "",
+  "data": {
+    "partnerName":"创霸",
+    "merchantErrorCode":"222",
+    "merchantErrorCodeDesc":"地方地方大幅",
+    "matchRuleType":2,
+    "partsType":3,
+    "标准错误码列表":"333"
+  },
+  "errorCode": ""
+}

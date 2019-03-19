@@ -1,0 +1,18 @@
+{
+    "success":true,
+    "errorCode":null,
+    "msg":null,
+    "code":null,
+    "data":{
+        "type":3,
+        "qrCode":{
+            "src":"http://yungogogo.com/sun/images/sun/classes2dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd.jpg",
+            "topText":"1111111",
+            "bottomText":"22222222222"
+        },
+        "adImg":{
+            "verticalSrc":"http://yungogogo.com/sun/images/sun/classes2.jpg",
+            "horizontalSrc":"http://yungogogo.com/sun/images/sun/classes2.jpg"
+        }
+    }
+}

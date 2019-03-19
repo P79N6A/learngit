@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "data": [1, 2, 3],
+  "errorCode": "0"
+}

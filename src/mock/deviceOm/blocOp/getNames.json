@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "groups": [{
+    "groupId": 1,
+    "groupName": "qwer"
+  }, {
+    "groupId": 10100007,
+    "groupName": "分组11"
+  }, {
+    "groupId": 10100008,
+    "groupName": "集团全名\" "
+  }, {
+    "groupId": 10100009,
+    "groupName": "未来集团"
+  }, {
+    "groupId": 10100010,
+    "groupName": "未来集团"
+  }, {
+    "groupId": 10100011,
+    "groupName": "group你"
+  }, {
+    "groupId": 10100012,
+    "groupName": "来啊几天"
+  }, {
+    "groupId": 10100013,
+    "groupName": "123"
+  }],
+  "errorCode": "0"
+}

@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "code": "0",
+  "msg": "成功",
+  "data": [{
+    "id": 30,
+    "createTime": 1545912497000,
+    "updateTime": 1545912497000,
+    "fhHid": "2018761220185211",
+    "roomTypeCode": "DLX",
+    "roomTypeName": "亲子房"
+  }, {
+    "id": 29,
+    "createTime": 1545826010000,
+    "updateTime": 1545826010000,
+    "fhHid": "2018761220185211",
+    "roomTypeCode": "TK",
+    "roomTypeName": "景观大床房"
+  }, {
+    "id": 28,
+    "createTime": 1545825759000,
+    "updateTime": 1545825759000,
+    "fhHid": "2018761220185211",
+    "roomTypeCode": "TD",
+    "roomTypeName": "海景大床房"
+  }, {
+    "id": 27,
+    "createTime": 1545824760000,
+    "updateTime": 1545824760000,
+    "fhHid": "2018761220185211",
+    "roomTypeCode": "2BS",
+    "roomTypeName": "你没房间"
+  }],
+  "count": null,
+  "currentSize": 10,
+  "currentPage": 1
+}

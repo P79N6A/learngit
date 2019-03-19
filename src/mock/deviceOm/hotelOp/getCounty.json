@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "data": [{
+    "city": null,
+    "code": "620501",
+    "cityCode": "6205",
+    "descript": "甘肃天水市市辖区"
+  }, {
+    "city": null,
+    "code": "620502",
+    "cityCode": "6205",
+    "descript": "甘肃天水市秦城区"
+  }, {
+    "city": null,
+    "code": "620503",
+    "cityCode": "6205",
+    "descript": "甘肃天水市北道区"
+  }, {
+    "city": null,
+    "code": "620521",
+    "cityCode": "6205",
+    "descript": "甘肃清水县"
+  }, {
+    "city": null,
+    "code": "620522",
+    "cityCode": "6205",
+    "descript": "甘肃秦安县"
+  }, {
+    "city": null,
+    "code": "620523",
+    "cityCode": "6205",
+    "descript": "甘肃甘谷县"
+  }, {
+    "city": null,
+    "code": "620524",
+    "cityCode": "6205",
+    "descript": "甘肃武山县"
+  }, {
+    "city": null,
+    "code": "620525",
+    "cityCode": "6205",
+    "descript": "甘肃张家川回族自治县"
+  }],
+  "errorCode": "0"
+}

@@ -1,0 +1,190 @@
+{
+    "success": true,
+    "code": "0",
+    "msg": "成功",
+    "data": [
+        {
+            "freeMem1min": "1107.83",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "191.79",
+            "cpu1min": "4.84",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:05",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "1104.55",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "194.03",
+            "cpu1min": "5.61",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:06",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "1099.39",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "207.67",
+            "cpu1min": "20.24",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:07",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "1135.71",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "192.08",
+            "cpu1min": "17.57",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:08",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "1119.94",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "204.41",
+            "cpu1min": "20.9",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:09",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "1131.65",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "188.99",
+            "cpu1min": "4.41",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:10",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "1171.18",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "173.99",
+            "cpu1min": "4.55",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:11",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "1171.97",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "172.55",
+            "cpu1min": "4.49",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:12",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "1167.8",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "174.74",
+            "cpu1min": "4.33",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:13",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "1165.24",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "176.61",
+            "cpu1min": "4.49",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:14",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "1160.77",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "178.47",
+            "cpu1min": "4.46",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:15",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "736.54",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "185.54",
+            "cpu1min": "10.61",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:38",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "721.19",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "219.72",
+            "cpu1min": "19.35",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:39",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "726.38",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "226.93",
+            "cpu1min": "17.15",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:40",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "924.79",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "199.65",
+            "cpu1min": "12.54",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:41",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "952.03",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "224.89",
+            "cpu1min": "18.37",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:42",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "940.18",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "240.32",
+            "cpu1min": "20.17",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:43",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "941.93",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "236.99",
+            "cpu1min": "7.38",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:44",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "943.46",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "232.34",
+            "cpu1min": "4.33",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:45",
+            "totalMem1min": "1999.27"
+        },
+        {
+            "freeMem1min": "940.12",
+            "maxAppMem1min": "512.0",
+            "pidMemory1min": "234.43",
+            "cpu1min": "4.39",
+            "time": 1546852285,
+            "timestamp": "2019-01-09 15:46",
+            "totalMem1min": "1999.27"
+        }
+    ],
+    "count": 20,
+    "currentSize": 20,
+    "currentPage": 1
+}

@@ -1,0 +1,99 @@
+{
+  "success": true,
+  "code": "0",
+  "msg": "成功",
+  "data": {
+    "dailySummaryVO": {
+      "totalHandleGuestNumber": 234,
+      "totalHandleSuccGuestNumber": 10,
+      "totalOrderNumber": 139,
+      "totalHandleSuccNumber": 10,
+      "totalHandleFailNumber": 129,
+      "totalHandleAbandonNumber": 0
+    },
+    "dailyDataSheetVOS": [
+      {
+        "checkInDate": "2019-02-21",
+        "hotelName": "北之玄武酒店",
+        "cardSuccessRate": "0.00%",
+        "handleTotalGuestNumber": 140,
+        "handleSuccGuestNumber": 0,
+        "totalOrderNumber": 1,
+        "handleSuccNumber": 0,
+        "succPreAuthOrderNum": 0,
+        "successNewSignOffLineCreditOrderNum": 0,
+        "successAlreadySignOffLineCreditOrderNum": 0,
+        "fliggySuccessOrderNum": 0,
+        "handleFailNumber": 1,
+        "handleFailPsbCheckNumber": 0,
+        "handleFailScanFaceNumber": 0,
+        "handleFailQueryPmsOrderNumber": 0,
+        "handleFailConfirmNumber": 0,
+        "handleFailAddRoommateNumber": 0,
+        "handleFailPayDepositNumber": 0,
+        "handleFailOnlineRoomSelectionNumber": 0,
+        "handleFailPreCheckInNumber": 0,
+        "handleFailHandleCheckInNumber": 0,
+        "handleFailCardAcquisitionNumber": 0,
+        "handleFailPsbUploadNumber": 0,
+        "handleFailQueryPreOrderNumber": 0,
+        "handleFailNetWorkExceptionNumber": 0,
+        "handleAbandonNumber": 0,
+        "handleAbandonPmsNotOrderNumber": 0,
+        "handleAbandonPreNotGetCardNumber": 0,
+        "handleAbandonHaveStayInfoNumber": 0,
+        "handleAbandonActiveNumber": 0,
+        "handleAbandonTimeOutNumber": 0,
+        "psbUploadFailGuestNumber": 140,
+        "handleFailStartHandleNumber": 0,
+        "handleFailReadIdCardNumber": 0
+      },
+      {
+        "checkInDate": "2019-02-21",
+        "hotelName": "未来酒店哈哈哈",
+        "cardSuccessRate": "0.00%",
+        "handleTotalGuestNumber": 1,
+        "handleSuccGuestNumber": 0,
+        "totalOrderNumber": 1,
+        "handleSuccNumber": 0,
+        "succPreAuthOrderNum": 0,
+
+        "successNewSignOffLineCreditOrderNum": 0,
+        "successAlreadySignOffLineCreditOrderNum": 0,
+
+        "fliggySuccessOrderNum": 0,
+        "handleFailNumber": 1,
+        "handleFailPsbCheckNumber": 0,
+
+        "handleFailScanFaceNumber": 0,
+        "handleFailQueryPmsOrderNumber": 0,
+        "handleFailConfirmNumber": 0,
+        "handleFailAddRoommateNumber": 0,
+        "handleFailPayDepositNumber": 0,
+        "handleFailOnlineRoomSelectionNumber": 0,
+        "handleFailPreCheckInNumber": 0,
+        "handleFailHandleCheckInNumber": 0,
+
+        "handleFailCardAcquisitionNumber": 0,
+
+        "handleFailPsbUploadNumber": 0,
+        "handleFailQueryPreOrderNumber": 0,
+
+        "handleFailNetWorkExceptionNumber": 0,
+
+        "handleAbandonNumber": 0,
+        "handleAbandonPmsNotOrderNumber": 0,
+        "handleAbandonPreNotGetCardNumber": 0,
+        "handleAbandonHaveStayInfoNumber": 0,
+        "handleAbandonActiveNumber": 0,
+        "handleAbandonTimeOutNumber": 0,
+        "psbUploadFailGuestNumber": 0,
+        "handleFailStartHandleNumber": 0,
+        "handleFailReadIdCardNumber": 0
+      }
+    ]
+  },
+  "count": 2,
+  "currentSize": 10,
+  "currentPage": 1
+}

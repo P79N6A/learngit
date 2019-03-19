@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "msg": "",
+  "code": "0",
+  "data": [{
+    "operatorName": "扫码成功",
+    "opDesc": "xxx",
+    "success": "true",
+    "time": "2018-09-06 10:43:20"
+  }, {
+    "operatorName": "生成二维码",
+    "opDesc": "xxx",
+    "success": "true",
+    "time": "2018-09-06 10:43:20"
+  }],
+  "errorCode": "0"
+}

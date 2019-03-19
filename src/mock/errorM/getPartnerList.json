@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "msg": "",
+  "code": "",
+  "data":  [
+    {
+      "partnerName": "海天鑫创"
+    },
+    {
+      "partnerName": "创霸"
+    },
+    {
+      "partnerName": "普杰"
+    }
+  ],
+  "errorCode": ""
+}

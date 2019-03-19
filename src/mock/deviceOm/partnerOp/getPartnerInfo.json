@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "code": "0",
+  "msg": "成功",
+  "data": {
+    "id": 7,
+    "createTime": 1544602660000,
+    "updateTime": 1544603741000,
+    "partnerName": "自助机制卡驱动",
+    "partnerType": 7,
+    "partnerStatus": 1,
+    "contactName": "郝鼎",
+    "contactTel": "18357195258",
+    "partnerEmail": "13071279561@XX.com",
+    "operator": "wb-hd354560"
+  }
+}

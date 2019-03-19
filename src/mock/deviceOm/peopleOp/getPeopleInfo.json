@@ -1,0 +1,20 @@
+{
+  "success":true,
+  "message":"",
+  "data":{
+    "hotelName":111,
+    "hotelEnName":"abc",
+    "sellerNick":111,
+    "vendor":111,
+    "hotelCode":111,
+    "shid":111,
+    "contactMobile":18357195258,
+    "address":111,
+    "pcc":["内蒙古", "包头市", "东河区"],
+    "hotelStar":"4",
+    "hotelStatus":2,
+    "email":"254332561@qq.com",
+    "longitude":333.1,
+    "latitude":22.4
+  }
+}

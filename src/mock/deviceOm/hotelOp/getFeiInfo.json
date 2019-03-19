@@ -1,0 +1,21 @@
+{
+  "success":true,
+  "message":"",
+  "hotelInfo":{
+    "hotelName":"未来酒店哈哈哈",
+    "hotelEnName":"abc",
+    "fgSellerNick":"商家测试帐号90",
+    "fgVendor":"taobao",
+    "pmsHotelCode":"alidemo",
+    "fgShid":"55339377",
+    "contactTel":18357195258,
+    "hotelAddress":111,
+    "pcc":["内蒙古", "包头市", "东河区"],
+    "hotelStar":"4",
+    "fliggyHotelCode":"ALITESTHOTEL",
+    "hotelStatus":1,
+    "email":"254332561@qq.com",
+    "longitudeLatitude":333.1,
+    "latitude":22.4
+  }
+}

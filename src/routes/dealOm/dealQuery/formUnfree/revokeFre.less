@@ -1,0 +1,47 @@
+.centerContent{
+    text-align: center;
+    button{
+        float: none !important
+    }
+}
+.insetButton{
+    margin-top: 10px;
+    text-align: center;
+    button{
+        display: inline-block;
+        float: none !important;
+        &:first-child{
+            margin-left: -20px;
+            margin-right: 20px;
+        }
+    }
+}
+.title{
+    text-align: center;
+    h1{
+        font-size: 20px;
+        margin: 0px;
+    }
+    p{
+        color: red
+    }
+}
+.form{
+    &>div{
+        margin-bottom: 10px;
+    }
+}
+.dateBox{
+    &>span{
+        display: inline-block;
+        &:nth-child(1) {
+            width: 35% !important;
+        }
+        &:nth-child(2) {
+            width: 10% !important;
+        }
+        &:nth-child(3) {
+            width: 55% !important;
+        }
+    }
+}

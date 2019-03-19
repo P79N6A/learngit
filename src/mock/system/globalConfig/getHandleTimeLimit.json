@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "data": "{\"start\":\"06:00:00\",\"end\":\"20:00:00\"}",
+  "errorCode": "0"
+}

@@ -1,0 +1,10 @@
+{
+    "success":true,
+    "message":"",
+    "data":{
+        "result":[
+            {"metricName":1111,"statisticsList":[1,2,3]},
+            {"metricName":2222,"statisticsList":[1,4,3]}
+        ]
+    }
+  }

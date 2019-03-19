@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "msg": "",
+  "code": "0",
+  "data": {
+    "id": 1,
+    "gmtCreate": 1520581007000,
+    "gmtModified": 1529375723000,
+    "partnerType": 1,
+    "partnerName": "设备配置",
+    "deviceType": 1,
+    "needDriverType": 1,
+    "modelName": "海天鑫创",
+    "modelKeyJson": "[{\"key\":\"2\",\"value\":\"22\",\"explain\":\"333\"},{\"key\":\"3\",\"value\":\"22\",\"explain\":\"333\"},{\"key\":\"1\",\"value\":\"wwww\",\"explain\":\"333\"}]",
+    "status": 1
+  },
+  "errorCode": "0"
+}

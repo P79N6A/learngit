@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": [{
+    "explain": "是否展示退房按钮",
+    "key": "walkOutOnOff",
+    "value": "1"
+  }, {
+    "explain": "退卡页提示",
+    "key": "cardTips",
+    "value": "退卡页提示"
+  }, {
+    "explain": "billQRCode",
+    "key": "billQRCode",
+    "value": "billQRCode"
+  }, {
+    "explain": "信用住退房",
+    "key": "creditCheckOut",
+    "value": "1"
+  }, {
+    "explain": "非信用住退房",
+    "key": "noCreditCheckOut",
+    "value": "1"
+  }],
+  "code": 1
+}

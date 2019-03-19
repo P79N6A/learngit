@@ -1,0 +1,32 @@
+{
+	"success": true,
+	"msg": "成功",
+	"code": "0",
+	"data": {
+		"result": [{
+			"id": 1,
+			"gmtCreate": 1533039363000,
+			"gmtModified": 1533039366000,
+			"vendor": "dahe",
+			"model": "qw-vbo",
+			"version": "1.0",
+			"midnightPlatformPermission": false,
+			"comment": "test",
+			"lastChangeBy": null
+		}, {
+			"id": 2,
+			"gmtCreate": 1533289165000,
+			"gmtModified": 1533289307000,
+			"vendor": "xiaohe",
+			"model": "3q",
+			"version": "1.0",
+			"midnightPlatformPermission": true,
+			"comment": "testn",
+			"lastChangeBy": null
+		}],
+		"count": 2,
+		"currentPage": 0,
+		"currentSize": 10
+	},
+	"errorCode": "0"
+}

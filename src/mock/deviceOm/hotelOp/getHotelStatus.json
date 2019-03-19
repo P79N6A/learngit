@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "hotelStatus": [
+    {"key":1,"value":"营业"},
+    {"key":2,"value":"带初始化"},
+    {"key":3,"value":"停业"}
+  ],
+  "errorCode": "0"
+}

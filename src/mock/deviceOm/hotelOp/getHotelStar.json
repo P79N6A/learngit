@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "hotelStars": [
+    {"key":"1","value":"一星级"},
+    {"key":"2","value":"二星级"},
+    {"key":"3","value":"三星级"},
+    {"key":"4","value":"四星级"},
+    {"key":"5","value":"五星级"}
+  ],
+  "errorCode": "0"
+}

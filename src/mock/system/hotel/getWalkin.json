@@ -1,0 +1,52 @@
+{
+    "success": true,
+    "code": "0",
+    "msg": "成功",
+    "data": [
+        {
+            "key": "walkinOnOff",
+            "value": "1",
+            "explain": "是否开启walkin入住"
+        },
+        {
+            "key": "walkinHomepageShowOnOff",
+            "value": "1",
+            "explain": "是否首页展示walkin入住"
+        },
+        {
+            "key": "walkinMaxBookingDays",
+            "value": "10",
+            "explain": "最大预定天数"
+        },
+        {
+            "key": "walkinSourceCode",
+            "value": "123",
+            "explain": "来源码"
+        },
+        {
+            "key": "walkinMarketCode",
+            "value": "1234",
+            "explain": "市场码"
+        },
+        {
+            "key": "walkinBookType",
+            "value": "1",
+            "explain": "预定类型"
+        },
+        {
+            "key": "walkinChannelCode",
+            "value": "12345",
+            "explain": "渠道码"
+        },
+        {
+            "key": "walkinRoomPriceCode",
+            "value": "333",
+            "explain": "房价码"
+        },
+        {
+            "key": "walkinRoomType",
+            "value": "[{\"key\":\"分类1\",\"value\":\"TK,TD\"},{\"key\":\"分类2\",\"value\":\"2BS,TD\"}]",
+            "explain": "房型分类"
+        }
+    ]
+}

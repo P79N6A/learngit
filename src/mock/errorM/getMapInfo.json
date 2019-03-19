@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "msg": "",
+  "code": "",
+  "data": {
+    "gmtCreate": "2018-12-10 10:14:17",
+    "gmtModified": "2018-12-10 10:14:17",
+    "id": 194,
+    "matchRuleDesc": null,
+    "matchRuleType": null,
+    "matchStatus": 0,
+    "operName": null,
+    "partnerErrorCode": "Z1074",
+    "partnerErrorCodeDesc": "认证失败",
+    "partnerId": 45,
+    "partnerName": null,
+    "partsType": 6,
+    "standardErrorCode": null,
+    "status": 1
+  },
+  "errorCode": ""
+}

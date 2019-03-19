@@ -1,0 +1,12 @@
+{
+	"success": true,
+	"msg": "成功",
+	"code": "0",
+	"data": {
+		"version":11,
+		"vendor":11,
+		"model":11,
+		"midnightPlatformPermission":false
+	},
+	"errorCode": "0"
+}

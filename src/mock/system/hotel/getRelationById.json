@@ -1,0 +1,14 @@
+{
+    "success":true,
+    "errorCode":null,
+    "msg":null,
+    "code":null,
+    "roomType":{
+        "hid":"xxx",
+        "hotel_name":"xxx",
+        "pms_room_code":"xxx",
+        "hotel_room_code":"xxx",
+        "psb_room_code":"xxx",
+        "card_room_code":"xxx"
+    }
+}

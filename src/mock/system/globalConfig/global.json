@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "msg": "1111",
+    "code": "0",
+    "time": {
+        "hfKey":"zeroCheckin",
+        "hfValue":"06:00:00"
+    },
+    "errorCode": "0"
+}

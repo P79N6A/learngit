@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "data": {
+    "bookTimeout": "01:00",
+    "comment": null,
+    "gmtCreate": 1534338140000,
+    "gmtModified": 1535013498000,
+    "id": 11,
+    "lastChangeBy": null,
+    "midnightPlatformPermission": true,
+    "model": null,
+    "vendor": "8",
+    "version": null
+  },
+  "errorCode": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "code": "0",
+  "msg": "成功",
+  "data": {
+    "id": 15,
+    "createTime": 1544930436000,
+    "updateTime": 1544932669000,
+    "productName": "test111222777",
+    "partnerId": 1,
+    "partnerType": 0,
+    "productStatus": 1,
+    "productVersion": "3377",
+    "relationProductId": null,
+    "operator": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "data": [
+      {
+          "checkoutTime": "12:00:00",
+          "floors": "1-9",
+          "gmtCreate": 1538014151000,
+          "gmtModified": 1538014151000,
+          "hid": 9527,
+          "id": 1,
+          "memberLevel": "M1"
+      },
+      {
+          "checkoutTime": "12:00:00",
+          "floors": "1-9",
+          "gmtCreate": 1538014151000,
+          "gmtModified": 1538014151000,
+          "hid": 9527,
+          "id": 12,
+          "memberLevel": "M1"
+      },
+      {
+          "checkoutTime": "12:00:00",
+          "floors": "1-9",
+          "gmtCreate": 1538014151000,
+          "gmtModified": 1538014151000,
+          "hid": 9527,
+          "id": 13,
+          "memberLevel": "M1"
+      }
+  ],
+  "errorCode": "0"
+}

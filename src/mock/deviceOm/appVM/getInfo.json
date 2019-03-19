@@ -1,0 +1,22 @@
+{
+  "success" : true,
+  "code" : "0",
+  "msg" : "成功",
+  "data" : {
+    "id" : 44,
+    "createTime" : "2019-02-19 14:16:24",
+    "updateTime" : "2019-02-19 14:16:24",
+    "deviceType" : 1,
+    "versionName" : "自助入住经典版",
+    "versionCode" : 3,
+    "downloadUrl" : "www.tese.com",
+    "md5" : "111",
+    "description" : "ceshi",
+    "status" : 1,
+    "productId" : null,
+    "productName" : null,
+    "operator" : "柯木连",
+    "driverType" : null,
+    "needDriverType" : 0
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "msg": "",
+  "code": "",
+  "data": [{
+    "matchRuleType": 1,
+    "matchRuleDesc": "sdfdsfdsfdsf"
+  }, {
+    "matchRuleType": 2,
+    "matchRuleDesc": "xxdsfeeeeexx"
+  }],
+  "errorCode": ""
+}

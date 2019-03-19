@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "data": {
+      "result": [
+          {
+              "traceId": "aaaaaaaaaaaaaaaaaaaaaa",
+              "deviceId": "hotel_54534_1",
+              "appVersion": 19, 
+              "totalTime": 100
+          },
+          {
+              "traceId": "aaaaaaaaaaaadddaaaaaaaaa",
+              "deviceId": "hotel_54534_1",
+              "appVersion": 19, 
+              "totalTime": 100
+          },
+          {
+              "traceId": "aaaaaaaaaaaaasdfaaaaaaaaaa",
+              "deviceId": "hotel_54534_1",
+              "appVersion": 19, 
+              "totalTime": 100
+          },
+          {
+              "traceId": "aaaaaaaaaaaaasdfaaaaaaaaa",
+              "deviceId": "hotel_54534_1",
+              "appVersion": 19, 
+              "totalTime": 100
+          },
+          {
+              "traceId": "aaaaaaaaaaaaaaaaaaaaaaaaaa",
+              "deviceId": "hotel_54534_1",
+              "appVersion": 19, 
+              "totalTime": 100
+          },
+          {
+              "traceId": "aaaaaaaaaaaaaaaaaaaaaaaaaa",
+              "deviceId": "hotel_54534_1",
+              "appVersion": 19, 
+              "totalTime": 100
+          },
+          {
+              "traceId": "aaaaaaaaaaaaaaaaaaaaaaaaaa",
+              "deviceId": "hotel_54534_1",
+              "appVersion": 19, 
+              "totalTime": 100
+          }
+      ]
+  },
+  "errorCode": "0"
+}

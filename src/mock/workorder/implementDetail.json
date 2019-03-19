@@ -1,0 +1,383 @@
+{
+  "orderId": null,
+  "hotelName": null,
+  "data": {
+      "orderId": 1826,
+      "type": 1,
+      "creator": "王美艳",
+      "orderExpectTime": "2019-01-11",
+      "orderFinishTime": null,
+      "userId": null,
+      "userName": null,
+      "companyId": 19,
+      "distributor": "system",
+      "orderStatus": 1,
+      "orderStatusDesc": "验收不通过",
+      "companyPartnerName": "marytest",
+      "onlineOperator": null,
+      "onlineTime": null,
+      "checkinTestId": null,
+      "preAuthId": null,
+      "hotelId": 2018011222141413,
+      "hotelName": "北京红楼梦酒店",
+      "hotelAddress": "皇后大道",
+      "hotelContact": null,
+      "hotelContactTel": null,
+      "deviceId": "hotel_2018011222141413_18",
+      "deviceName": "航信自助机配置模板",
+      "tourismSystem": "金铖FTP",
+      "pms": "西软线下",
+      "cardReader": "智慧中控读卡器",
+      "cardProvider": "驰卡F3-1300发卡器",
+      "cardCreater": "虚拟制卡",
+      "winPath": null,
+      "appPath": null,
+      "coursePath": null,
+      "remarks": [
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 223,
+              "remark": "xxxx remark",
+              "operatorName": "system",
+              "operatorId": "system",
+              "gmtCreate": "2019-01-11T14:30:48"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 224,
+              "remark": "xxxx remark",
+              "operatorName": "system",
+              "operatorId": "system",
+              "gmtCreate": "2019-01-11T14:37:50"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 226,
+              "remark": "123",
+              "operatorName": "system",
+              "operatorId": "system",
+              "gmtCreate": "2019-01-15T17:08:33"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 229,
+              "remark": "xxxx remark",
+              "operatorName": "system",
+              "operatorId": "system",
+              "gmtCreate": "2019-01-16T15:28:21"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 230,
+              "remark": "xxxx remark",
+              "operatorName": "system",
+              "operatorId": "system",
+              "gmtCreate": "2019-01-16T15:30:33"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 231,
+              "remark": "xxxx remark",
+              "operatorName": "system",
+              "operatorId": "system",
+              "gmtCreate": "2019-01-16T15:31:24"
+          }
+      ],
+      "logs": [
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 468,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 14,
+              "operatorTypeDesc": "下载照片/视频",
+              "operatorResult": "下载成功",
+              "gmtCreate": "2019-01-14 16:27:55"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 475,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 14,
+              "operatorTypeDesc": "下载照片/视频",
+              "operatorResult": "下载成功",
+              "gmtCreate": "2019-01-14 18:16:29"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 476,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 10,
+              "operatorTypeDesc": "增加联系人",
+              "operatorResult": "增加联系人成功",
+              "gmtCreate": "2019-01-15 15:43:21"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 477,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 10,
+              "operatorTypeDesc": "增加联系人",
+              "operatorResult": "增加联系人成功",
+              "gmtCreate": "2019-01-15 15:47:35"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 478,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 10,
+              "operatorTypeDesc": "增加联系人",
+              "operatorResult": "增加联系人成功",
+              "gmtCreate": "2019-01-15 16:25:04"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 479,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 10,
+              "operatorTypeDesc": "增加联系人",
+              "operatorResult": "增加联系人成功",
+              "gmtCreate": "2019-01-15 16:33:05"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 4803333,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 10,
+              "operatorTypeDesc": "增加联系人",
+              "operatorResult": "增加联系人成功",
+              "gmtCreate": "2019-01-15 17:10:15"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 487121212,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 6,
+              "operatorTypeDesc": "验收不通过",
+              "operatorResult": "操作验收不通过",
+              "gmtCreate": "2019-01-16 15:28:22"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 487121,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 6,
+              "operatorTypeDesc": "验收不通过",
+              "operatorResult": "操作验收不通过",
+              "gmtCreate": "2019-01-16 15:28:22"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 48799,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 6,
+              "operatorTypeDesc": "验收不通过",
+              "operatorResult": "操作验收不通过",
+              "gmtCreate": "2019-01-16 15:28:22"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 48788,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 6,
+              "operatorTypeDesc": "验收不通过",
+              "operatorResult": "操作验收不通过",
+              "gmtCreate": "2019-01-16 15:28:22"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 48777,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 6,
+              "operatorTypeDesc": "验收不通过",
+              "operatorResult": "操作验收不通过",
+              "gmtCreate": "2019-01-16 15:28:22"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 48766,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 6,
+              "operatorTypeDesc": "验收不通过",
+              "operatorResult": "操作验收不通过",
+              "gmtCreate": "2019-01-16 15:28:22"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 48755,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 6,
+              "operatorTypeDesc": "验收不通过",
+              "operatorResult": "操作验收不通过",
+              "gmtCreate": "2019-01-16 15:28:22"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 48744,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 6,
+              "operatorTypeDesc": "验收不通过",
+              "operatorResult": "操作验收不通过",
+              "gmtCreate": "2019-01-16 15:28:22"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 48733,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 6,
+              "operatorTypeDesc": "验收不通过",
+              "operatorResult": "操作验收不通过",
+              "gmtCreate": "2019-01-16 15:28:22"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 48722,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 6,
+              "operatorTypeDesc": "验收不通过",
+              "operatorResult": "操作验收不通过",
+              "gmtCreate": "2019-01-16 15:28:22"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 4811,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 6,
+              "operatorTypeDesc": "验收不通过",
+              "operatorResult": "操作验收不通过",
+              "gmtCreate": "2019-01-16 15:28:22"
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 488,
+              "operatorId": "system",
+              "operatorName": "system",
+              "operatorType": 6,
+              "operatorTypeDesc": "验收不通过",
+              "operatorResult": "操作验收不通过",
+              "gmtCreate": "2019-01-16 15:31:24"
+          }
+      ],
+      "contacts": [
+          {
+              "phone": "13888888",
+              "name": "王经理",
+              "position": "经理"
+          },
+          {
+              "phone": "13888888",
+              "name": "王经理",
+              "position": "经理"
+          },
+          {
+              "phone": "123",
+              "name": "嘿嘿嘿",
+              "position": "哈哈哈"
+          },
+          {
+              "phone": "123",
+              "name": "啊啊",
+              "position": "啊啊啊"
+          }
+      ],
+      "orderDatas": [
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 1,
+              "path": "1826_P020170630612690352061.jpg",
+              "type": "photo",
+              "remark": null
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 1,
+              "path": "1826_P020170630612690352061.jpg",
+              "type": "photo",
+              "remark": null
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 1,
+              "path": "1826_P020170630612690352061.jpg",
+              "type": "photo",
+              "remark": null
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 1,
+              "path": "1826_P020170630612690352061.jpg",
+              "type": "photo",
+              "remark": null
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 1,
+              "path": "1826_P020170630612690352061.jpg",
+              "type": "photo",
+              "remark": null
+          },
+          {
+              "orderId": 1826,
+              "hotelName": null,
+              "id": 1,
+              "path": "2222.jpg",
+              "type": "video",
+              "remark": null
+          }
+      ],
+      "winPathFlag": true,
+      "appPathFlag": null,
+      "coursePathFlag": null,
+      "activeCode": "123"
+  },
+  "success": true,
+  "errorCode": null,
+  "errorMessage": null
+}

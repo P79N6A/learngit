@@ -1,0 +1,60 @@
+{
+  "success" : true,
+  "code" : "0",
+  "msg" : "成功",
+  "data" : [ {
+    "code" : 78,
+    "description" : "BLond制卡器"
+  }, {
+    "code" : 73,
+    "description" : "lotclient制卡器"
+  }, {
+    "code" : 55,
+    "description" : "未来酒店制卡器豪华版1.0"
+  }, {
+    "code" : 54,
+    "description" : "未来酒店制卡器经典版1.0"
+  }, {
+    "code" : 35,
+    "description" : "onity2.0制卡器"
+  }, {
+    "code" : 34,
+    "description" : "onity1.0制卡器"
+  }, {
+    "code" : 33,
+    "description" : "Vingcard_VISIONLINE制卡器"
+  }, {
+    "code" : 32,
+    "description" : "saflock新流程制卡器"
+  }, {
+    "code" : 31,
+    "description" : "科新永安制卡器"
+  }, {
+    "code" : 30,
+    "description" : "vingCard制卡器"
+  }, {
+    "code" : 29,
+    "description" : "爱迪尔制卡器"
+  }, {
+    "code" : 28,
+    "description" : "邦威制卡器"
+  }, {
+    "code" : 27,
+    "description" : "海贝斯制卡器"
+  }, {
+    "code" : 26,
+    "description" : "saflock制卡器"
+  }, {
+    "code" : 25,
+    "description" : "杨格制卡器"
+  }, {
+    "code" : 24,
+    "description" : "CISA制卡器"
+  }, {
+    "code" : 9,
+    "description" : "虚拟制卡"
+  }, {
+    "code" : 3,
+    "description" : "必达制卡器"
+  } ]
+}

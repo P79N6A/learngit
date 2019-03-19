@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "msg": "执行成功",
+  "code": "200",
+  "data": [{
+    "code": 1,
+    "description": "海天鑫创"
+  }, {
+    "code": 2,
+    "description": "创霸"
+  }, {
+    "code": 3,
+    "description": "普杰"
+  }, {
+    "code": 4,
+    "description": "盛阳"
+  }, {
+    "code": 5,
+    "description": "test"
+  }, {
+    "code": 6,
+    "description": "test2"
+  }],
+  "errorCode": "200"
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "msg": "",
+  "code": "",
+  "data": [{
+    "gmtCreate": "2018-09-27 16:15:37",
+    "gmtModified": "2018-09-27 16:15:59",
+    "id": 62,
+    "operatorName": "胡凌炜",
+    "partsName": null,
+    "partsType": 6,
+    "standardErrorCode": "601",
+    "standardErrorCodeDesc": "核身失败",
+    "standardErrorCodeName": "核身错误",
+    "status": 1
+  }],
+  "errorCode": ""
+}

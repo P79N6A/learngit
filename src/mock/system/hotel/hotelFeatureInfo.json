@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "hotelInfo": [
+      {"a":1}
+  ],
+    "count": 30,
+    "currentPage": 1,
+    "currentSize": 10,
+  "errorCode": "0"
+}

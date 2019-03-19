@@ -1,0 +1,46 @@
+{
+  "success" : true,
+  "code" : "0",
+  "msg" : "成功",
+  "data" : [ {
+    "code" : 1,
+    "description" : "自助入住APP",
+    "partnerType" : null,
+    "needDriverType" : 0
+  }, {
+    "code" : 2,
+    "description" : "支付宝APK",
+    "partnerType" : null,
+    "needDriverType" : 0
+  }, {
+    "code" : 3,
+    "description" : "RN热更新资源",
+    "partnerType" : null,
+    "needDriverType" : 0
+  }, {
+    "code" : 4,
+    "description" : "psb插件app",
+    "partnerType" : 5,
+    "needDriverType" : 1
+  }, {
+    "code" : 5,
+    "description" : "制卡插件app",
+    "partnerType" : 3,
+    "needDriverType" : 1
+  }, {
+    "code" : 6,
+    "description" : "uac插件app",
+    "partnerType" : 4,
+    "needDriverType" : 1
+  }, {
+    "code" : 7,
+    "description" : "发卡插件app",
+    "partnerType" : 7,
+    "needDriverType" : 0
+  }, {
+    "code" : 8,
+    "description" : "读卡器插件app",
+    "partnerType" : 2,
+    "needDriverType" : 0
+  } ]
+}

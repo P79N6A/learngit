@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "code": null,
+  "msg": null,
+  "data": [{
+      "clientId": "hotel_23281_1",
+      "remoteAddr": "127.0.0.1",
+      "remotePort": 61285,
+      "isActive": 1,
+      "connType": 1,
+      "loginDate": 1544598077000,
+      "lastUpdate": 1544495137000,
+      "logoutDate": 1544534313000,
+      "serverAddr": "10.63.103.12"
+    },
+    {
+      "clientId": "hotel_23281_1",
+      "remoteAddr": "127.0.0.1",
+      "remotePort": 61285,
+      "isActive": 0,
+      "connType": 2,
+      "loginDate": 1544598077000,
+      "lastUpdate": 1544495137000,
+      "logoutDate": 1544534313000,
+      "serverAddr": "10.63.103.12"
+    },
+    {
+      "clientId": "hotel_23281_1",
+      "remoteAddr": "127.0.0.1",
+      "remotePort": 61285,
+      "isActive": 0,
+      "connType": 2,
+      "loginDate": 1544598077000,
+      "lastUpdate": 1544495137000,
+      "logoutDate": 1544534313000,
+      "serverAddr": "10.63.103.12"
+    }
+  ],
+  "count": 1,
+  "currentSize": 10,
+  "currentPage": 1
+}

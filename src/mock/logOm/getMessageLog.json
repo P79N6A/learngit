@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "msg": "",
+  "code": "",
+    "logs": [{
+      "traceId": "c3834d4a67e74d8786bf91ba8619e6d0",
+      "operateDesc": "{\"guestName\":\"李金胜\",\"hotelName\":\"飞猪未来酒店\",\"messageBody\":\"{\\\"guestName\\\":\\\"李金胜\\\",\\\"hotelName\\\":\\\"飞猪未来酒店\\\",\\\"pmsOrderId\\\":\\\"31782\\\",\\\"roomCode\\\":\\\"3046\\\",\\\"serviceTel\\\":\\\"400-1688-688\\\"}\",\"messageStatus\":\"发送成功\",\"phoneNumber\":\"176****3224\",\"pmsOrderId\":\"31782\",\"roomCode\":\"3046\",\"templateCode\":\"SMS_140120625\",\"time\":\"2018-09-03T16:30:57.067\",\"traceId\":\"c3834d4a67e74d8786bf91ba8619e6d0\"}",
+      "time": 1535883615
+    }, {
+      "traceId": "c3834d4a67e74d8786bf91ba8619e6d0",
+      "operateDesc": "{\"guestName\":\"李金胜\",\"hotelName\":\"飞猪未来酒店\",\"messageBody\":\"{\\\"guestName\\\":\\\"李金胜\\\",\\\"hotelName\\\":\\\"飞猪未来酒店\\\",\\\"pmsOrderId\\\":\\\"31782\\\",\\\"roomCode\\\":\\\"3046\\\",\\\"serviceTel\\\":\\\"400-1688-688\\\"}\",\"messageStatus\":\"发送成功\",\"phoneNumber\":\"176****3224\",\"pmsOrderId\":\"31782\",\"roomCode\":\"3046\",\"templateCode\":\"SMS_140120625\",\"time\":\"2018-09-03T16:30:57.067\",\"traceId\":\"c3834d4a67e74d8786bf91ba8619e6d0\"}",
+      "time": 1535883615
+    }, {
+      "traceId": "c3834d4a67e74d8786bf91ba8619e6d0",
+      "operateDesc": "{\"guestName\":\"李金胜\",\"hotelName\":\"飞猪未来酒店\",\"messageBody\":\"{\\\"guestName\\\":\\\"李金胜\\\",\\\"hotelName\\\":\\\"飞猪未来酒店\\\",\\\"pmsOrderId\\\":\\\"31782\\\",\\\"roomCode\\\":\\\"3046\\\",\\\"serviceTel\\\":\\\"400-1688-688\\\"}\",\"messageStatus\":\"发送成功\",\"phoneNumber\":\"176****3224\",\"pmsOrderId\":\"31782\",\"roomCode\":\"3046\",\"templateCode\":\"SMS_140120625\",\"time\":\"2018-09-03T16:30:57.067\",\"traceId\":\"c3834d4a67e74d8786bf91ba8619e6d0\"}",
+      "time": 1535883615
+    }, {
+      "traceId": "c3834d4a67e74d8786bf91ba8619e6d0",
+      "operateDesc": "{\"guestName\":\"李金胜\",\"hotelName\":\"飞猪未来酒店\",\"messageBody\":\"{\\\"guestName\\\":\\\"李金胜\\\",\\\"hotelName\\\":\\\"飞猪未来酒店\\\",\\\"pmsOrderId\\\":\\\"31782\\\",\\\"roomCode\\\":\\\"3046\\\",\\\"serviceTel\\\":\\\"400-1688-688\\\"}\",\"messageStatus\":\"发送成功\",\"phoneNumber\":\"176****3224\",\"pmsOrderId\":\"31782\",\"roomCode\":\"3046\",\"templateCode\":\"SMS_140120625\",\"time\":\"2018-09-03T16:30:57.067\",\"traceId\":\"c3834d4a67e74d8786bf91ba8619e6d0\"}",
+      "time": 1535883615
+    }, {
+      "traceId": "c3834d4a67e74d8786bf91ba8619e6d0",
+      "operateDesc": "{\"guestName\":\"李金胜\",\"hotelName\":\"飞猪未来酒店\",\"messageBody\":\"{\\\"guestName\\\":\\\"李金胜\\\",\\\"hotelName\\\":\\\"飞猪未来酒店\\\",\\\"pmsOrderId\\\":\\\"31782\\\",\\\"roomCode\\\":\\\"3046\\\",\\\"serviceTel\\\":\\\"400-1688-688\\\"}\",\"messageStatus\":\"发送成功\",\"phoneNumber\":\"176****3224\",\"pmsOrderId\":\"31782\",\"roomCode\":\"3046\",\"templateCode\":\"SMS_140120625\",\"time\":\"2018-09-03T16:30:57.067\",\"traceId\":\"c3834d4a67e74d8786bf91ba8619e6d0\"}",
+      "time": 1535883615
+    }, {
+      "traceId": "57cb174f1c47494b86ab9165f48dcee1",
+      "operateDesc": "{\"guestName\":\"张林玉\",\"hotelName\":\"飞猪未来酒店\",\"messageBody\":\"{\\\"guestName\\\":\\\"张林玉\\\",\\\"hotelName\\\":\\\"飞猪未来酒店\\\",\\\"pmsOrderId\\\":\\\"43210987\\\",\\\"roomCode\\\":\\\"1002\\\",\\\"serviceTel\\\":\\\"400-1688-688\\\"}\",\"messageStatus\":\"发送成功\",\"phoneNumber\":\"150****5190\",\"pmsOrderId\":\"43210987\",\"roomCode\":\"1002\",\"templateCode\":\"SMS_140120625\",\"time\":\"2018-09-03T10:44:35.612\",\"traceId\":\"57cb174f1c47494b86ab9165f48dcee1\"}",
+      "time": 1535883615
+    }],
+    "count": 6,
+  "errorCode": ""
+}

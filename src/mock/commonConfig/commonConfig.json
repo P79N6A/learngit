@@ -1,0 +1,118 @@
+{
+  "success" : true,
+  "code" : "0",
+  "msg" : "成功",
+  "data" : {
+    "id" : 402,
+    "createTime" : "2018-12-18 15:51:16",
+    "updateTime" : "2019-01-23 20:58:31",
+    "modelId" : 0,
+    "configText" : "[{\"explain\":\"信用住付款码\",\"key\":\"alipayCode\",\"value\":\"9000\"},{\"explain\":\"\",\"key\":\"\",\"value\":\"\"},{\"explain\":\"是否展示全场景活动\",\"key\":\"showAllSceneActivitiesFlag\",\"value\":\"0\"},{\"explain\":\"飞猪非旗舰酒店ID\",\"key\":\"fliggyNonUltimateHids\",\"value\":\"[{\\\"fgHid\\\":\\\"64500018092\\\",\\\"fgSellerId\\\":\\\"55339377\\\"}]\"},{\"explain\":\"信用住和预授权并行页开关\",\"key\":\"creditAuthParallelFlag\",\"value\":\"0\"},{\"explain\":\"是否开启信用住签约\",\"key\":\"openCreditSign\",\"value\":\"1\"},{\"explain\":\"是否开启预约入住\",\"key\":\"openPreCheckIn\",\"value\":\"1\"},{\"explain\":\"预授权付款码\",\"key\":\"prepayCode\",\"value\":\"9010\"},{\"explain\":\"早餐code\",\"key\":\"breakfastCode\",\"value\":\"ZLY,BF1\"},{\"explain\":\"杂费上限(预授权押金)\",\"key\":\"alipayIncidentalsMax\",\"value\":\"1\"},{\"explain\":\"是否开启信用住资格校验\",\"key\":\"checkQualifications\",\"value\":\"1\"},{\"explain\":\"入住天数(C天内不收费)\",\"key\":\"alipayIncidentalsCDays\",\"value\":\"\"},{\"explain\":\"是否是测试酒店\",\"key\":\"testHotelFlag\",\"value\":\"0\"},{\"explain\":\"是否开启手机输入\",\"key\":\"openInputPhone\",\"value\":\"1\"},{\"explain\":\"自助机背景图片\",\"key\":\"imageUrl\",\"value\":\"https://gw.alicdn.com/tfs/TB19bROeHSYBuNjSspiXXXNzpXa-1080-1475.jpg\"},{\"explain\":\"提示信息\",\"key\":\"hintMessage\",\"value\":\"新年快乐，恭喜发财，大吉大利，万事如意！！！\"},{\"explain\":\"杂费天数(计算D天杂费)\",\"key\":\"alipayIncidentalsDDays\",\"value\":\"2\"},{\"explain\":\"房价\",\"key\":\"roomPrice\",\"value\":\"200\"},{\"explain\":\"是否显示楼层楼号\",\"key\":\"showHotelFloor\",\"value\":\"1\"},{\"explain\":\"杂费\",\"key\":\"incidentals\",\"value\":\"0\"},{\"explain\":\"是否开启预约制卡\",\"key\":\"openPreMakeCard\",\"value\":\"1\"},{\"key\":\"showAllsceneActivitiesFlag\",\"value\":\"1\"},{\"explain\":\"是否开启在线选房\",\"key\":\"openChooseRoomOnline\",\"value\":\"1\"},{\"explain\":\"是否开启预授权\",\"key\":\"openPreAuth\",\"value\":\"1\"},{\"explain\":\"扫脸预授权开关\",\"key\":\"faceScanPreAuthFlag\",\"value\":\"0\"},{\"explain\":\"预约入住等待时间\",\"key\":\"orderWaitTime\",\"value\":\"33\"}]",
+    "operator" : "乔震宇",
+    "configList" : [ {
+      "key" : "alipayCode",
+      "value" : "9000",
+      "explain" : "信用住付款码"
+    }, {
+      "key" : "",
+      "value" : "",
+      "explain" : ""
+    }, {
+      "key" : "showAllSceneActivitiesFlag",
+      "value" : "0",
+      "explain" : "是否展示全场景活动"
+    }, {
+      "key" : "fliggyNonUltimateHids",
+      "value" : "[{\"fgHid\":\"64500018092\",\"fgSellerId\":\"55339377\"}]",
+      "explain" : "飞猪非旗舰酒店ID"
+    }, {
+      "key" : "creditAuthParallelFlag",
+      "value" : "0",
+      "explain" : "信用住和预授权并行页开关"
+    }, {
+      "key" : "openCreditSign",
+      "value" : "1",
+      "explain" : "是否开启信用住签约"
+    }, {
+      "key" : "openPreCheckIn",
+      "value" : "1",
+      "explain" : "是否开启预约入住"
+    }, {
+      "key" : "prepayCode",
+      "value" : "9010",
+      "explain" : "预授权付款码"
+    }, {
+      "key" : "breakfastCode",
+      "value" : "ZLY,BF1",
+      "explain" : "早餐code"
+    }, {
+      "key" : "alipayIncidentalsMax",
+      "value" : "1",
+      "explain" : "杂费上限(预授权押金)"
+    }, {
+      "key" : "checkQualifications",
+      "value" : "1",
+      "explain" : "是否开启信用住资格校验"
+    }, {
+      "key" : "alipayIncidentalsCDays",
+      "value" : "",
+      "explain" : "入住天数(C天内不收费)"
+    }, {
+      "key" : "testHotelFlag",
+      "value" : "0",
+      "explain" : "是否是测试酒店"
+    }, {
+      "key" : "openInputPhone",
+      "value" : "1",
+      "explain" : "是否开启手机输入"
+    }, {
+      "key" : "imageUrl",
+      "value" : "https://gw.alicdn.com/tfs/TB19bROeHSYBuNjSspiXXXNzpXa-1080-1475.jpg",
+      "explain" : "自助机背景图片"
+    }, {
+      "key" : "hintMessage",
+      "value" : "新年快乐，恭喜发财，大吉大利，万事如意！！！",
+      "explain" : "提示信息"
+    }, {
+      "key" : "alipayIncidentalsDDays",
+      "value" : "2",
+      "explain" : "杂费天数(计算D天杂费)"
+    }, {
+      "key" : "roomPrice",
+      "value" : "200",
+      "explain" : "房价"
+    }, {
+      "key" : "showHotelFloor",
+      "value" : "1",
+      "explain" : "是否显示楼层楼号"
+    }, {
+      "key" : "incidentals",
+      "value" : "0",
+      "explain" : "杂费"
+    }, {
+      "key" : "openPreMakeCard",
+      "value" : "1",
+      "explain" : "是否开启预约制卡"
+    }, {
+      "key" : "showAllsceneActivitiesFlag",
+      "value" : "1",
+      "explain" : null
+    }, {
+      "key" : "openChooseRoomOnline",
+      "value" : "1",
+      "explain" : "是否开启在线选房"
+    }, {
+      "key" : "openPreAuth",
+      "value" : "1",
+      "explain" : "是否开启预授权"
+    }, {
+      "key" : "faceScanPreAuthFlag",
+      "value" : "0",
+      "explain" : "扫脸预授权开关"
+    }, {
+      "key" : "orderWaitTime",
+      "value" : "33",
+      "explain" : "预约入住等待时间"
+    } ]
+  }
+}

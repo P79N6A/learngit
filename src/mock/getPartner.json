@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "data": [{
+    "code": 2,
+    "description": "测试合作伙伴1"
+  }, {
+    "code": 5,
+    "description": "测试合作伙伴"
+  }, {
+    "code": 4,
+    "description": "测试合作伙伴"
+  }, {
+    "code": 3,
+    "description": "耿耿"
+  }, {
+    "code": 1,
+    "description": "测试合作伙伴"
+  }],
+  "errorCode": "0"
+}

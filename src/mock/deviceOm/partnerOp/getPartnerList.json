@@ -1,0 +1,120 @@
+{
+    "success": true,
+    "code": "0",
+    "msg": "成功",
+    "data": [
+      {
+        "id": 14,
+        "createTime": 1544626233000,
+        "updateTime": 1544626848000,
+        "productName": "测试测试测试",
+        "partnerId": 12,
+        "productStatus": 12,
+        "productVersion": "2.0",
+        "relationProductId": 1,
+        "operator": null
+      },
+      {
+        "id": 4,
+        "createTime": 1544596484000,
+        "updateTime": 1544596487000,
+        "productName": "lien",
+        "partnerId": 4,
+        "productStatus": 1,
+        "productVersion": "1.0",
+        "relationProductId": null,
+        "operator": null
+      },
+      {
+        "id": 1,
+        "createTime": 1544596476000,
+        "updateTime": 1544596478000,
+        "productName": "测试测试",
+        "partnerId": 2,
+        "productStatus": 1,
+        "productVersion": "1.0",
+        "relationProductId": null,
+        "operator": null
+      },
+      {
+        "id": 5,
+        "createTime": 1544595619000,
+        "updateTime": 1544595622000,
+        "productName": "新中新",
+        "partnerId": 5,
+        "productStatus": 1,
+        "productVersion": "1.0",
+        "relationProductId": null,
+        "operator": null
+      },
+      {
+        "id": 9,
+        "createTime": 1544595002000,
+        "updateTime": 1544595006000,
+        "productName": "核身配置-刷脸",
+        "partnerId": 6,
+        "productStatus": 1,
+        "productVersion": "1.0",
+        "relationProductId": null,
+        "operator": null
+      },
+      {
+        "id": 6,
+        "createTime": 1544594831000,
+        "updateTime": 1544594833000,
+        "productName": "测试1",
+        "partnerId": 6,
+        "productStatus": 1,
+        "productVersion": "1.0",
+        "relationProductId": null,
+        "operator": null
+      },
+      {
+        "id": 7,
+        "createTime": 1544594831000,
+        "updateTime": 1544594833000,
+        "productName": "必达",
+        "partnerId": 7,
+        "productStatus": 1,
+        "productVersion": "1.0",
+        "relationProductId": null,
+        "operator": null
+      },
+      {
+        "id": 8,
+        "createTime": 1544594831000,
+        "updateTime": 1544594833000,
+        "productName": "测试2",
+        "partnerId": 1,
+        "productStatus": 1,
+        "productVersion": "1.0",
+        "relationProductId": null,
+        "operator": null
+      },
+      {
+        "id": 10,
+        "createTime": 1544586805000,
+        "updateTime": 1544586808000,
+        "productName": "普杰发卡器",
+        "partnerId": 6,
+        "productStatus": 1,
+        "productVersion": "1.0",
+        "relationProductId": null,
+        "operator": null
+      },
+      {
+        "id": 3,
+        "createTime": 1544583604000,
+        "updateTime": 1544583607000,
+        "productName": "金诚线下",
+        "partnerId": 3,
+        "productStatus": 1,
+        "productVersion": "1.0",
+        "relationProductId": null,
+        "operator": null
+      }
+    ],
+    "count": 11,
+    "currentSize": 10,
+    "currentPage": 1
+  }

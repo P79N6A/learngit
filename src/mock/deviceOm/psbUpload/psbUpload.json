@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "msg": "",
+  "code": "",
+  "data": {
+    "errorCode": "10002",
+    "errorInfo": null,
+    "errorMsg": "上传失败",
+    "extensionMap": null,
+    "isPressure": null,
+    "singleResultInfoList": [
+      {
+        "credId": "41152119921030721X",
+        "errorCode": "10002",
+        "errorMsg": "上传失败",
+        "isSuccess": false,
+        "singleResponse": "{\"code\":\"31\",\"msg\":\"证件号码为41152119921030721X姓名为李金胜的旅客，已经登记到房间，公安机关不允许同一个证件登记多个房间的情况出现。请您按旅客实际入住房间登记！\"}"
+      },
+      {
+        "credId": "41152119921030721X",
+        "errorCode": "10002",
+        "errorMsg": "上传失败",
+        "isSuccess": false,
+        "singleResponse": "{\"code\":\"31\",\"msg\":\"地方地方地方地方大幅证件号码为41152119921030721X姓名为李金胜的旅客，已经登记到房间！\"}"
+      }
+    ],
+    "success": false,
+    "successful": false
+  },
+  "errorCode": ""
+}

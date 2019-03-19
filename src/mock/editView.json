@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "code": "0",
+  "msg": "成功",
+  "data": {
+    "app": {
+      "status": 0,
+      "configId": 6,
+      "configText": "[{\"key\":\"\",\"value\":\"\",\"explain\":\"\"}]",
+      "modelId": 18,
+      "modelName": "fhfgh",
+      "modelConfigText": "[{\"key\":\"fghfh\",\"value\":\"\",\"explain\":\"fhghf\"}]",
+      "partnerType": 6
+    },
+    "driver": {
+      "status": null,
+      "configId": null,
+      "configText": "[{\"key\":\"dfsfs\",\"value\":\"\",\"explain\":\"dfsdfsdf\"}]",
+      "modelId": 19,
+      "modelName": "dfsfs",
+      "modelConfigText": null,
+      "partnerType": null
+    },
+    "idCard": {
+      "status": null,
+      "configId": null,
+      "configText": "[{\"key\":\"司法所地方\",\"value\":\"\",\"explain\":\"是否\"}]",
+      "modelId": 14,
+      "modelName": "尚飞尚飞的",
+      "modelConfigText": null,
+      "partnerType": null
+    },
+    "pms": {
+      "status": null,
+      "configId": null,
+      "configText": "[{\"key\":\"顺丰到付\",\"value\":\"\",\"explain\":\"dsfsd\"}]",
+      "modelId": 16,
+      "modelName": "师傅的说法",
+      "modelConfigText": null,
+      "partnerType": null
+    },
+    "lock": {
+      "status": null,
+      "configId": null,
+      "configText": "[{\"key\":\"sf\",\"value\":\"\",\"explain\":\"sfsf\"}]",
+      "modelId": 15,
+      "modelName": "fs",
+      "modelConfigText": null,
+      "partnerType": null
+    },
+    "psb": {
+      "status": null,
+      "configId": null,
+      "configText": "[{\"key\":\"sfsdf\",\"value\":\"\",\"explain\":\"gfhfgh\"}]",
+      "modelId": 17,
+      "modelName": "sfsf",
+      "modelConfigText": null,
+      "partnerType": null
+    },
+    "hardware": {
+      "status": null,
+      "configId": null,
+      "configText": "[{\"key\":\"fghfgh\",\"value\":\"\",\"explain\":\"fhfghfh\"}]",
+      "modelId": 20,
+      "modelName": "hgthfgh",
+      "modelConfigText": null,
+      "partnerType": null
+    }
+  }
+}

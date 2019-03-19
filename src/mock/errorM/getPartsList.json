@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "code": "0",
+  "msg": "成功",
+  "data": {
+    "statusList": [{
+      "code": 0,
+      "description": "停止合作"
+    }, {
+      "code": 1,
+      "description": "合作中"
+    }],
+    "typeList": [{
+      "code": 1,
+      "description": "自助机"
+    }, {
+      "code": 2,
+      "description": "身份证读卡器"
+    }, {
+      "code": 3,
+      "description": "门锁制卡器"
+    }, {
+      "code": 4,
+      "description": "PMS"
+    }, {
+      "code": 5,
+      "description": "PSB"
+    }, {
+      "code": 6,
+      "description": "自助机APP"
+    }, {
+      "code": 7,
+      "description": "自助机制卡驱动"
+    }]
+  }
+}

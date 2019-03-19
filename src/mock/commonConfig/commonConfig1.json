@@ -1,0 +1,75 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "data": [{
+    "gmtCreate": null,
+    "gmtModified": null,
+    "id": 10022,
+    "indexId": "43361062092",
+    "name": "order_wait_time",
+    "type": 1,
+    "typeDesc": "酒店",
+    "value": "60"
+  }, {
+    "gmtCreate": null,
+    "gmtModified": null,
+    "id": 10021,
+    "indexId": "43361062092",
+    "name": "royalty_rate",
+    "type": 1,
+    "typeDesc": "酒店",
+    "value": "12"
+  }, {
+    "gmtCreate": null,
+    "gmtModified": null,
+    "id": 10005,
+    "indexId": "43361062092",
+    "name": "incidentals",
+    "type": 1,
+    "typeDesc": "酒店",
+    "value": "6"
+  }, 
+  {
+    "gmtCreate": null,
+    "gmtModified": null,
+    "id": 10003,
+    "indexId": "43361062092",
+    "name": "roomPrice",
+    "type": 1,
+    "typeDesc": "酒店",
+    "value": "2"
+  },
+  {
+    "gmtCreate": null,
+    "gmtModified": null,
+    "id": 10003,
+    "indexId": "43361062092",
+    "name": "make_cards_number",
+    "type": 1,
+    "typeDesc": "酒店",
+    "value": "0"
+  },
+  {
+    "gmtCreate": null,
+    "gmtModified": null,
+    "id": 10003,
+    "indexId": "43361062092",
+    "name": "alipay_incidentals_c_days",
+    "type": 1,
+    "typeDesc": "酒店",
+    "value": "2"
+  },
+  {
+    "gmtCreate": null,
+    "gmtModified": null,
+    "id": 1000333,
+    "indexId": "43361062092111",
+    "name": "hotel_hint",
+    "type": 1,
+    "typeDesc": "酒店",
+    "value": "2222"
+  }
+],
+  "errorCode": "0"
+}

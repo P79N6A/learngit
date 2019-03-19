@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "msg": "成功",
+    "code": "0",
+        "data": [
+            {
+                "gmtCreate": 1534755623000,
+                "gmtModified": 1534755623000,
+                "hid": 123456,
+                "id": 11,
+                "roomType": "高级大床房",
+                "roomTypeCode": "gjdcf"
+            },
+            {
+                "gmtCreate": 1534755623000,
+                "gmtModified": 1534755623000,
+                "hid": 123111456,
+                "id": 22,
+                "roomType": "高级大床房",
+                "roomTypeCode": "gjdcf"
+            },
+            {
+                "gmtCreate": 1534755623000,
+                "gmtModified": 1534755623000,
+                "hid": 2222,
+                "id": 33,
+                "roomType": "高级大床房",
+                "roomTypeCode": "gjdcf"
+            }
+        ],
+        "count": 20,
+        "currentPage": 2,
+        "currentSize": 10,
+    "errorCode": "0"
+}

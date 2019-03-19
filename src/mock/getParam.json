@@ -1,0 +1,123 @@
+{
+    "success": true,
+    "msg": "",
+    "code": "",
+    "data": {
+        "result": {
+            "id": 2,
+            "gmtCreate": 1517219173000,
+            "gmtModified": 1521176583000,
+            "utdId": "test001",
+            "deviceId": "test001",
+            "deviceType": 1,
+            "deviceConf": "[{\"key\":\"port\",\"value\":\"20\",\"explain\":\"端口号\"},{\"key\":\"name\",\"value\":\"ht\",\"explain\":\"名称\"}]",
+            "verifyConf": "[{\"key\":\"threshold\",\"value\":\"20\",\"explain\":\"阈值\"}]",
+            "pageInfos": "[{\"imageUrl\":\"1\",\"weexUrl\":\"1\",\"weight\":\"1\"},{\"imageUrl\":\"222\",\"weexUrl\":\"222222\",\"weight\":\"1\"}]",
+            "idReaderType": 1,
+            "idReaderConf": "[{\"key\":\"port\",\"value\":\"26\",\"explain\":\"端口号\"},{\"key\":\"name\",\"value\":\"hs\",\"explain\":\"名称\"}]",
+            "cardIssuerType": 3,
+            "cardIssuerConf": "[{\"key\":\"path\",\"value\":\"\",\"explain\":\"串口地址\"},{\"key\":\"baudrate\",\"value\":\"9600\",\"explain\":\"波特率\"}]",
+            "cardMakerType": 1,
+            "cardMakerConf": "[{\"key\":\"port\",\"value\":\"22\",\"explain\":\"端口号\"},{\"key\":\"name\",\"value\":\"adl\",\"explain\":\"名称\"}]",
+            "psbType": 1,
+            "psbConf": "[{\"key\":\"ftpName\",\"value\":\"feizhu\",\"explain\":\"ftp名称\"},{\"key\":\"ftppsw\",\"value\":\"feizhu\",\"explain\":\"ftp密码\"}]",
+            "pmsConf": "[{\"key\":\"code\",\"value\":\"\",\"explain\":\"传给未来酒店约定的值\"},{\"key\":\"description\",\"value\":\"\",\"explain\":\"pms品牌型号版本等信息\"}]"
+        },
+        "configTypes": [
+            "Device",
+            "CardMaker",
+            "IdReader",
+            "CardIssuer",
+            "PSB",
+            "Verify",
+            "PMS"
+        ],
+        "deviceTypes": [
+            {
+                "code": 1,
+                "description": "海天鑫创"
+            },
+            {
+                "code": 2,
+                "description": "创霸"
+            },
+            {
+                "code": 3,
+                "description": "普杰"
+            }
+        ],
+        "cardIssuerTypes": [
+            {
+                "code": 3,
+                "description": "普杰"
+            },
+            {
+                "code": 2,
+                "description": "创霸"
+            },
+            {
+                "code": 1,
+                "description": "海天鑫创"
+            }
+        ],
+        "cardMakerTypes": [
+            {
+                "code": 5,
+                "description": "天域"
+            },
+            {
+                "code": 2,
+                "description": "Onity"
+            },
+            {
+                "code": 1,
+                "description": "爱迪尔"
+            },
+            {
+                "code": 0,
+                "description": "虚拟"
+            }
+        ],
+        "idReaderTypes": [
+            {
+                "code": 4,
+                "description": "新中新"
+            },
+            {
+                "code": 1,
+                "description": "华视"
+            },
+            {
+                "code": 3,
+                "description": "维尔"
+            }
+        ],
+        "psbTypes": [
+            {
+                "code": 2,
+                "description": "大河"
+            },
+            {
+                "code": 1,
+                "description": "金城"
+            },
+            {
+                "code": 3,
+                "description": "金鹰"
+            }
+        ],
+        "verifyTypes": [
+            {
+                "code": 1,
+                "description": "默认核身配置"
+            }
+        ],
+        "pmsTypes": [
+            {
+                "code": 1,
+                "description": "默认PMS配置模板"
+            }
+        ]
+    },
+    "errorCode": ""
+}

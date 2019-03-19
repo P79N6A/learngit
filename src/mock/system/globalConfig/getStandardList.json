@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "msg": "",
+  "code": "0",
+  "featureStandards": [{
+      "id": 20,
+      "featureDesc": 222,
+      "status": 1
+    },
+    {
+      "id": 210,
+      "featureDesc": 33,
+      "status": 2
+    },
+    {
+      "id": 220,
+      "featureDesc": 1517211933880,
+      "status": 1
+    },
+    {
+      "id": 203,
+      "featureDesc": "sdssdsdsd",
+      "status": 1
+    }
+  ],
+  "count": 10,
+  "currentPage": 1,
+  "currentSize": 4,
+  "errorCode": "0"
+}

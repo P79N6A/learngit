@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "msg": "",
+    "code": "0",
+    "data": {
+        "id": 20,
+        "gmtCreate": 1517211933000,
+        "gmtModified": 1523175513000,
+        "utdId": "test0012",
+        "deviceId": "test0012",
+        "sellerId": 3688639446,
+        "sellerNick": "sandbox_sz_27",
+        "vendor": "taobao",
+        "hotelCode": "H000011",
+        "hid": 17681163446,
+        "shid": 10128870,
+        "hotelName": "北京航信华仪连锁酒店惠新东街店",
+        "deviceDesc": null,
+        "psbHotelCode": "huayi",
+        "hotelHint": "sffdf2222",
+        "extension": null,
+        "deviceFirm": "ali",
+        "status": 2,
+        "fliggyHotelCode": 2222,
+        "appVersion": 1,
+        "reportStatus": 0,
+        "reportTime": null,
+        "reportMessage": null
+    },
+    "errorCode": "0"
+}

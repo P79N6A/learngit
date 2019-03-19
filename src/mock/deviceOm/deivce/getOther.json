@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "msg": "成功",
+  "code": "0",
+  "data": [{
+    "brand": "爱迪尔",
+    "version": ["1.0"]
+  }, {
+    "brand": "未来酒店专用测试自助机",
+    "version": ["1.0.1", "2.1"]
+  }],
+  "errorCode": "0"
+}

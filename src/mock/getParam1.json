@@ -1,0 +1,326 @@
+{
+    "success": true,
+    "code": "0",
+    "msg": "成功",
+    "data": {
+        "app": {
+            "total": [
+                {
+                    "code": 29,
+                    "description": "test"
+                },
+                {
+                    "code": 6,
+                    "description": "未来酒店app"
+                }
+            ],
+            "Windows": [],
+            "Android": []
+        },
+        "deviceConfig": {
+            "app": { "driverType":"total", "modelId":29 },
+            "card_issuer": { "driverType":"total", "modelId":35 },
+            "pms": { "driverType":"total", "modelId":11 },
+            "id_card": { "driverType":"total", "modelId":34 },
+            "verify": { "driverType":"total", "modelId":19 },
+            "lock": { "driverType":"Android", "modelId":41 },
+            "device": { "driverType":"total", "modelId":39 },
+            "psb": { "driverType":"Windows", "modelId":42 }
+        },
+        "card_issuer": {
+            "total": [
+                {
+                    "code": 35,
+                    "description": "驰卡F3-1300发卡器"
+                },
+                {
+                    "code": 31,
+                    "description": "创自发卡器"
+                },
+                {
+                    "code": 28,
+                    "description": "henryModule"
+                },
+                {
+                    "code": 18,
+                    "description": "sjjtestchange发卡器海天"
+                },
+                {
+                    "code": 7,
+                    "description": "天腾发卡器"
+                }
+            ],
+            "Windows": [],
+            "Android": []
+        },
+        "configTypes": {
+            "app": "自助机APP",
+            "card_issuer": "发卡器",
+            "pms": "PMS",
+            "id_card": "身份证读卡器",
+            "verify": "人脸识别",
+            "lock": "门锁制卡器",
+            "hotel": "酒店",
+            "device": "自助机",
+            "psb": "PSB"
+        },
+        "pms": {
+            "total": [
+                {
+                    "code": 43,
+                    "description": "新Opera"
+                },
+                {
+                    "code": 36,
+                    "description": "金天鹅线下"
+                },
+                {
+                    "code": 23,
+                    "description": "西软线下"
+                },
+                {
+                    "code": 22,
+                    "description": "未来酒店豪华版PMS"
+                },
+                {
+                    "code": 21,
+                    "description": "未来酒店云PMS"
+                },
+                {
+                    "code": 17,
+                    "description": "金天鹅PMS"
+                },
+                {
+                    "code": 12,
+                    "description": "西软线上PMS"
+                },
+                {
+                    "code": 11,
+                    "description": "operaPMS"
+                },
+                {
+                    "code": 4,
+                    "description": "xms"
+                }
+            ],
+            "Windows": [
+                {
+                    "code": 36,
+                    "description": "金天鹅线下"
+                },
+                {
+                    "code": 23,
+                    "description": "西软线下"
+                },
+                {
+                    "code": 21,
+                    "description": "未来酒店云PMS"
+                },
+                {
+                    "code": 17,
+                    "description": "金天鹅PMS"
+                },
+                {
+                    "code": 12,
+                    "description": "西软线上PMS"
+                },
+                {
+                    "code": 11,
+                    "description": "operaPMS"
+                }
+            ],
+            "Android": [
+                {
+                    "code": 43,
+                    "description": "新Opera"
+                },
+                {
+                    "code": 22,
+                    "description": "未来酒店豪华版PMS"
+                },
+                {
+                    "code": 4,
+                    "description": "xms"
+                }
+            ]
+        },
+        "id_card": {
+            "total": [
+                {
+                    "code": 34,
+                    "description": "华视读卡器"
+                },
+                {
+                    "code": 33,
+                    "description": "智慧中控读卡器"
+                },
+                {
+                    "code": 32,
+                    "description": "维尔读卡器"
+                },
+                {
+                    "code": 2,
+                    "description": "新中新读卡器"
+                }
+            ],
+            "Windows": [],
+            "Android": []
+        },
+        "lock": {
+            "total": [
+                {
+                    "code": 41,
+                    "description": "vingcard_visionline制卡器"
+                },
+                {
+                    "code": 24,
+                    "description": "未来酒店制卡器经典版1.0"
+                },
+                {
+                    "code": 10,
+                    "description": "虚拟制卡"
+                },
+                {
+                    "code": 3,
+                    "description": "必达制卡器"
+                }
+            ],
+            "Windows": [
+                {
+                    "code": 10,
+                    "description": "虚拟制卡"
+                }
+            ],
+            "Android": [
+                {
+                    "code": 41,
+                    "description": "vingcard_visionline制卡器"
+                },
+                {
+                    "code": 24,
+                    "description": "未来酒店制卡器经典版1.0"
+                },
+                {
+                    "code": 3,
+                    "description": "必达制卡器"
+                }
+            ]
+        },
+        "verify": {
+            "total": [
+                {
+                    "code": 19,
+                    "description": "sjjtest人脸识别阿里云认证"
+                },
+                {
+                    "code": 8,
+                    "description": "支付宝核身"
+                }
+            ],
+            "Windows": [],
+            "Android": []
+        },
+        "device": {
+            "total": [
+                {
+                    "code": 47,
+                    "description": "test"
+                },
+                {
+                    "code": 39,
+                    "description": "lien自助机"
+                },
+                {
+                    "code": 27,
+                    "description": "haodigvaishdjan"
+                },
+                {
+                    "code": 20,
+                    "description": "sjj自助机"
+                },
+                {
+                    "code": 1,
+                    "description": "航信自助机配置模板"
+                }
+            ],
+            "Windows": [],
+            "Android": []
+        },
+        "psb": {
+            "total": [
+                {
+                    "code": 46,
+                    "description": "广州psb"
+                },
+                {
+                    "code": 45,
+                    "description": "陕西psb"
+                },
+                {
+                    "code": 44,
+                    "description": "永越psb"
+                },
+                {
+                    "code": 42,
+                    "description": "万维PSB"
+                },
+                {
+                    "code": 38,
+                    "description": "航信-南昌psb"
+                },
+                {
+                    "code": 30,
+                    "description": "金铖FTP"
+                },
+                {
+                    "code": 25,
+                    "description": "成都PSB"
+                },
+                {
+                    "code": 14,
+                    "description": "金诚-线下模板"
+                },
+                {
+                    "code": 5,
+                    "description": "大河"
+                }
+            ],
+            "Windows": [
+                {
+                    "code": 45,
+                    "description": "陕西psb"
+                },
+                {
+                    "code": 44,
+                    "description": "永越psb"
+                },
+                {
+                    "code": 42,
+                    "description": "万维PSB"
+                },
+                {
+                    "code": 30,
+                    "description": "金铖FTP"
+                },
+                {
+                    "code": 25,
+                    "description": "成都PSB"
+                },
+                {
+                    "code": 14,
+                    "description": "金诚-线下模板"
+                },
+                {
+                    "code": 5,
+                    "description": "大河"
+                }
+            ],
+            "Android": [
+                {
+                    "code": 38,
+                    "description": "航信-南昌psb"
+                }
+            ]
+        }
+    }
+}

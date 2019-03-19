@@ -1,0 +1,23 @@
+{
+  "success":true,
+  "message":"",
+  "data":{
+    "result":{
+      "rulesName":111,
+      "proName":"abc",
+      "monitorName":111,
+      "exampleName":111,
+      "statisticWay":111,
+      "warningSymbol":111,
+      "threshold":18357195258,
+      "contactGroupIds":[],
+      "address":111,
+      "pcc":["内蒙古", "包头市", "东河区"],
+      "startTime":3,
+      "endTime":5,
+      "email":"254332561@qq.com",
+      "longitude":333.1,
+      "latitude":22.4
+    }
+  }
+}
